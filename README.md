@@ -4,6 +4,7 @@ A web-based platform that enables merchants to manage and activate their own onl
 
 ## Author
 **Kangning Li**
+**Kewen Xu**
 
 ## Class Link
 CS5600 - Web Development
